@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/search/!svn/ver/5031/code/extract-js/fifo_dispatcher/thrift/protocol
+END
+TBinaryProtocol.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/search/!svn/ver/5031/code/extract-js/fifo_dispatcher/thrift/protocol/TBinaryProtocol.py
+END
+TCompactProtocol.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/search/!svn/ver/5031/code/extract-js/fifo_dispatcher/thrift/protocol/TCompactProtocol.py
+END
+TBase.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/search/!svn/ver/5031/code/extract-js/fifo_dispatcher/thrift/protocol/TBase.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/search/!svn/ver/5031/code/extract-js/fifo_dispatcher/thrift/protocol/__init__.py
+END
+TProtocol.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/search/!svn/ver/5031/code/extract-js/fifo_dispatcher/thrift/protocol/TProtocol.py
+END
