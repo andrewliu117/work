@@ -1,0 +1,25 @@
+# .bashrc
+
+# Source global definitions
+if [ -f /etc/bashrc ]; then
+	. /etc/bashrc
+fi
+
+# User specific aliases and functions
+alias htmltree='cd ~/snda_repository/search/code/public/htmltree'
+alias oe='cd ~/snda_repository/search/code/online-extract'
+alias offline='cd ~/snda_repository/search/code/offline'
+alias vie="cd ~/snda_repository/search/code/vie"
+alias js="cd ~/snda_repository/search/code/extract-js"
+
+export PYTHONPATH=/home/liuhongjiang/test/fifo_test/fifo_js/public:$PYTHONPATH
+
+function up2tiaozhuanji()
+{
+	scp -P 58422 $1 liuhongjiang@58.215.180.4:~/files/
+}
+
+function get2tiaozhuanji()
+{
+	scp -P 58422 liuhongjiang@58.215.180.4:~/files/$1 .
+}

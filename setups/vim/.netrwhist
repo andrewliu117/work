@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/liuhongjiang/snda_repository/search/code/offline/trunk/comment_score/src/glog/0.3.1/include'
+let g:netrw_dirhist_2='/home/liuhongjiang/snda_repository/search/code/offline/trunk/comment_score/src/glog/0.3.1'
+let g:netrw_dirhist_3='/home/liuhongjiang/snda_repository/search/code/offline/trunk/comment_score/src/glog/0.3.1/include'
+let g:netrw_dirhist_4='/home/liuhongjiang/snda_repository/search/code/offline/trunk/comment_score/src/glog/0.3.1'
+let g:netrw_dirhist_5='/home/liuhongjiang/snda_repository/search/code/offline/trunk/tag_video/tag_extract'
+let g:netrw_dirhist_6='/home/liuhongjiang/snda_repository/intern/quanloo_operation/user_info'
