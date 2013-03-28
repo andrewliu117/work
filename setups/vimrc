@@ -302,3 +302,11 @@ func SetTitle()
                 call append(1, "\# -*- coding: utf-8 -*-")
         endif
 endfunc
+
+"doxygen setting
+"plugin DoxygenToolkit.vim
+map <F2>a : DoxAuthor<CR>
+map <F2>f : Dox<CR>
+map <F2>b : DoxBlock<CR>
+map <F2>c O/** */
+map <F2>v $a    /**< */
