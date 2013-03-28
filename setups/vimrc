@@ -76,7 +76,7 @@ set showmatch
 
 "Have the mouse enabled all the time
 "set mouse=a
-set mouse=n
+"set mouse=n
 
 "Set to auto read when a file is changed from the outside
 set autoread
